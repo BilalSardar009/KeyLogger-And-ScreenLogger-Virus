@@ -29,6 +29,8 @@ This is a keylogger and screenlogger application that operates in a stealthy man
 2. The application will start silently and begin logging keystrokes, capturing screenshots, and monitoring the clipboard.
 3. At regular intervals (configured by `time_interval`), the application will send an email containing the captured data.
 4. You can terminate the application by pressing the Esc key.
+5. For Making exe file with no consule run this command:
+> pyinstaller injection.py --onefile --noconsole
 
 ## Legal Considerations
 
