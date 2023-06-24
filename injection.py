@@ -1,10 +1,5 @@
 
-"""NLP
-7A
-Assignment # 2Assignment details
-Assignment # 2
-Asma Naseer
-•
+"""
 Oct 10 (Edited Oct 25)
 100 points
 Due Oct 26, 11:59 PM
@@ -18,9 +13,7 @@ Class comments
 Your work
 Turned in
 
-19L-1232-NLP-2.zip
-Compressed Archive
-Private comments
+
 The Fulton County Grand Jury said Friday an investigation of Atlanta's recent primary election produced `` no evidence '' that any irregularities took place .
 The jury further said in term-end presentments that the City Executive Committee , which had over-all charge of the election , `` deserves the praise and thanks of the City of Atlanta '' for the manner in which the election was conducted .
 The September-October term jury had been charged by Fulton Superior Court Judge Durwood Pye to investigate reports of possible `` irregularities '' in the hard-fought primary which was won by Mayor-nominate Ivan Allen Jr. .
